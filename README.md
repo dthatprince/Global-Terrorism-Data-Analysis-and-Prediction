@@ -1,6 +1,5 @@
 # Global Terrorism Data Analysis and Prediction
 
-![Global Terrorism Analysis](images/terrorism-analysis-banner.png)
 
 This repository contains data, analysis, and visualizations related to global terrorism.
 
