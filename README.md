@@ -1,5 +1,6 @@
 # Global Terrorism Data Analysis and Prediction
 
+Deployment: https://teamcolabpremierproject.streamlit.app/
 
 This repository contains data, analysis, and visualizations related to global terrorism.
 
